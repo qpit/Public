@@ -1,6 +1,9 @@
 # Public
 Welcome to the Public repository in the qpit GitHub! This space has been created with the specific goal of generating QR codes, enabling easy access to information directly from your mobile device.
 
+[Public Wiki](https://github.com/qpit/Public/wiki)
+
+
 **Purpose**
 
 The primary purpose of this repository is to facilitate the generation of QR codes that will be associated with individual instruments in our lab. These QR codes will seamlessly link users to pertinent information, providing insights into the operation, initiation, and contact details for assistance related to each instrument.
